@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Toko Online Taufik</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
 
@@ -16,15 +16,15 @@
     <link rel="stylesheet" href="<?= base_url('css/bootstrap.min.css'); ?>">
 
     <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
+    <!-- <link href="starter-template.css" rel="stylesheet"> -->
     <style>
-      body {
-  padding-top: 5rem;
-}
-.starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
-}
+          body {
+            padding-top: 5rem;
+          }
+          .starter-template {
+            padding: 3rem 1.5rem;
+            text-align: center;
+          }
     </style>
   </head>
 
